@@ -8,7 +8,11 @@ In this first tutorial we set up a simple display using LWJGL 2. Setting up a di
 This tutorial covers:
 
 -Creating a LWJGL 2 display.
+
 -Updating the display.
+
 -Capping the frame rate.
+
 -Determining the size of the display.
+
 -Closing the display.
